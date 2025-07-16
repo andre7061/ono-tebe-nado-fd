@@ -4,14 +4,6 @@
   grid-template-columns: repeat(3, 1fr);
 }
 
-.footer__address {
-  font-size: 18px;
-  line-height: 24.3px;
-  display: flex;
-  flex-direction: column;
-  max-width: 250px;
-}
-
 .footer__menu {
   margin: 0 auto;
 }
