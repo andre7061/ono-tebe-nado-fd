@@ -20,3 +20,13 @@
   background-color: black;
   opacity: 0.6;
 }
+
+.address {
+  display: flex;
+  flex-direction: column;
+  max-width: 220px;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 24.3px;
+  margin-right: 21px;
+}

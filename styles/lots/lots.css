@@ -13,9 +13,8 @@
 .lots__card-list {
   list-style-type: none;
   display: flex;
-  justify-content: space-between;
   flex-wrap: wrap;
-  row-gap: 20px;
+  gap: 25px;
   margin-bottom: 34px;
 }
 
@@ -23,11 +22,11 @@
   position: relative;
   max-width: 334px;
   min-height: 596px;
-
   background-size: cover;
   background-position: center center;
   z-index: 5;
 }
+
 .card_type_film {
   background-image: url(../../images/card-lot-01.jpg);
 }

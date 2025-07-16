@@ -15,6 +15,7 @@
 .footer__menu {
   margin: 0 auto;
 }
+
 .footer__menu-list {
   display: flex;
   flex-direction: column;

@@ -14,11 +14,11 @@
   font-size: 18px;
 }
 
-.header__menu-list-item_activ {
+.header__menu-list-item_active {
   list-style-type: none;
 }
 
-.header__menu-list-link_activ {
+.header__menu-list-link_active {
   text-decoration: none;
 }
 
@@ -29,11 +29,4 @@
 
 .header__address {
   justify-self: end;
-  display: flex;
-  flex-direction: column;
-  max-width: 220px;
-  font-style: normal;
-  font-size: 18px;
-  line-height: 24.3px;
-  margin-right: 21px;
 }
