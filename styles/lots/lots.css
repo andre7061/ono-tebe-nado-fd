@@ -41,11 +41,11 @@
 
 .card {
   display: flex;
-  height: 590px;
+  height: 100%;
   flex-direction: column;
   justify-content: space-between;
   align-items: end;
-  padding: 48px 40px 43px 40px;
+  padding: 48px 40px 47px 40px;
 }
 
 .card-link {
